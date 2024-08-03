@@ -1,0 +1,12 @@
+{
+  "name": "calmanac",
+  "version": "1.0.0",
+  "description": "A react based web app to keep track of upcoming events in your college.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
